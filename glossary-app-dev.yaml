@@ -1,1 +1,3 @@
-test.profile.property=test
+test:
+  profile:
+    property: test
