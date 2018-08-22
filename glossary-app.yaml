@@ -1,1 +1,2 @@
-pong.text=Ping Response
+pong:
+  text: Ping Response
